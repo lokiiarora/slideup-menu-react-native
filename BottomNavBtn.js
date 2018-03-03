@@ -24,7 +24,7 @@ BottomNavBtn.propTypes = {
     onPressNonVisible: PropTypes.func,
     color: PropTypes.string.isRequired,
     name: PropTypes.string.isRequired,
-    size: PropTypes.string.isRequired
+    size: PropTypes.number.isRequired
 };
 
 
